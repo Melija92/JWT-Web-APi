@@ -1,0 +1,56 @@
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\JWT Web Api.dll.config
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\JWT Web Api.dll
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\JWT Web Api.pdb
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\EntityFramework.dll
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\EntityFramework.SqlServer.dll
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\Microsoft.IdentityModel.Logging.dll
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\Microsoft.Owin.Cors.dll
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\Microsoft.Owin.dll
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\Microsoft.Owin.Security.dll
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\Microsoft.Owin.Security.Jwt.dll
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\Newtonsoft.Json.dll
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\Owin.dll
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\System.Net.Http.Formatting.dll
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\System.Web.Cors.dll
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\System.Web.Http.Cors.dll
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\System.Web.Http.dll
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\System.Web.Http.Owin.dll
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\System.Web.Http.WebHost.dll
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\Thinktecture.IdentityModel.Core.dll
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\EntityFramework.xml
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\EntityFramework.SqlServer.xml
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\Microsoft.IdentityModel.Logging.xml
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\Microsoft.Owin.xml
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\Microsoft.Owin.Cors.xml
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\Microsoft.Owin.Security.xml
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\Microsoft.Owin.Security.Jwt.xml
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\Newtonsoft.Json.xml
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\System.Net.Http.Formatting.xml
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\System.Web.Http.xml
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\System.Web.Http.Cors.xml
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\System.Web.Http.Owin.xml
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\Thinktecture.IdentityModel.Core.pdb
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\bin\System.Web.Http.WebHost.xml
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\obj\Debug\JWT Web Api.csproj.CoreCompileInputs.cache
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\obj\Debug\JWT Web Api.dll
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\obj\Debug\JWT Web Api.pdb
+D:\Lokalno programiranje\JWT Web Api\JWT Web Api\JWT Web Api\obj\Debug\JWT Web Api.csprojResolveAssemblyReference.cache
